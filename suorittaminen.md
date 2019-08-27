@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Suorittaminen / JODA 2018
+title: Suorittaminen / JODA syksyllä 2019
 ---
 
 # Suorittaminen
@@ -21,8 +21,9 @@ Tiivis ohje oppimispäiväkirjan kirjoittamiseen:
 Oppimispäiväkirja karttuu noin yhdellä A4-sivulla viikossa.
 
 Perusta luentopäiväkirjaa varten verkkoon dokumentti, jota päivität kevään mittaan luentojen edetessä.
-Kerro dokumentin osoite sähköpostitse Jukalle (jukka.huhtamaki@tut.fi) kun perustat luentopäiväkirjan - lisää sähköpostin otsikkoon #jodatut.
-Myös Google Docs -dokumentin käyttäminen on mahdollista - jaa dokumentti Jukalle (jukka.huhtamaki@gmail.com).
+Kerro dokumentin osoite sähköpostitse Jukalle (jukka.huhtamaki@tuni.fi) kun perustat luentopäiväkirjan - lisää sähköpostin otsikkoon #jodatut.
+
+<!-- Myös Google Docs -dokumentin käyttäminen on mahdollista - jaa dokumentti Jukalle (jukka.huhtamaki.work@gmail.com).-->
 
 Oppimispäiväkirjat arvioidaan seuraavien kriteerien perusteella:
 

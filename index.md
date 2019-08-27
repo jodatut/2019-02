@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Etusivu / JODA 2018
+title: Etusivu / JODA syksyllä 2019
 year: 2019-02
 ---
 
