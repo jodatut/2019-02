@@ -94,7 +94,7 @@ Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://jodatut.github.i
 
 ## Luentoviikko 4.1: Johdanto aihepiiriin ja suorittaminen
 
-Avausluento maanantaina 5. maaliskuuta kello 14-16 Konetalon salissa K1320.
+Avausluento tiistaina 27. elokuuta kello 17-20 Edutechissä.
 Suorittamisen käytännöt.
 Mitä on datatiede
 ([CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining),
