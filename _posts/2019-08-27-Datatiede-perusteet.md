@@ -6,6 +6,12 @@ title: Johdanto datatieteeseen
 # Ensimmäinen koodiklinikka
 
 
+Käytämme JODAssa Tieteen tietotekniikan keskus CSC:n Notebooks-palvelua:
+* [CSC Notebooks](https://notebooks.csc.fi)
+
+Voit täydentää Python-osaamistasi vuorovaikutteisilla verkkokursseilla:
+* [CodeAcademy Data Science](https://www.codecademy.com/learn/paths/data-science)
+* [DataCamp Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
 
 Halutessasi voit asentaa Pythonin omalle koneellesi:
 - [Python](https://www.python.org/downloads/) (mieluiten v3.6.x)
