@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Luentopäiväkirja / JODA 2018
-year: 2018
+title: Luentopäiväkirja / JODA syksyllä 2019
+year: 2019-02
 ---
 
-Tämä on Johdanto datatieteeseen -opintojakson kevään 2018 toteutuskerran luentopäiväkirja.
+Tämä on Johdanto datatieteeseen -opintojakson syksyn 2019 toteutuskerran luentopäiväkirja.
+
 <!-- Vastaisen varalle:
 Toteutus noudattelee [vuoden 2018 toteutuskertaa](https://jodatut.github.io/2018/luentopaivakirja).
 Alan dynaamisuudesta johtuen sisältöjä ja toteutustapaa kuitenkin kehitetään jatkuvasti.
@@ -13,6 +14,7 @@ Toteutuskerta etenee karkean
 [luentosuunnitelman](https://docs.google.com/document/d/1drHb2HtmFy_Nu5iVuCtqZV6C9OjsoGMQqDrvDhV7fIc/edit?usp=sharing)
 mukaisesti.
 
+<!--
 Totetutuskerran käytössä on
 [Slack-kanava](https://join.slack.com/t/jodatut/shared_invite/enQtMzQyNzE1NzgxNDQwLTIyNmE5OGQwYWIxMjc3MjU2MDU1Mzc0NTQ0OWE3OTg4Y2I5Y2E0MDkxYTAyZjQwNTJhYTFmZGJhNDdiNzMwOTg).
 Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/section/c9dd83a0-b703-47e7-82fe-545ff4644e75/public).
