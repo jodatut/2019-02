@@ -109,4 +109,6 @@ Dataa koneeseen:
 read_csv() & read_excel().
 [Jupyter-koeajo](https://github.com/jodatut/2019-02/blob/master/koodiesimerkit/jupyter-demo/Koeajossa-Jupyter.ipynb).
 
-Ensimmäisellä Koodiklinikalla käydään läpi pandasin perusteita sekä eri kehitysympäristöjä. Teknologiademoon pääsee [tästä](https://jodatut.github.io/2018/Datatiede-perusteet/). <!--Liittykää myös kurssin [Slack-kanavalle](https://join.slack.com/t/jodatut/shared_invite/enQtMzIyOTk4NjI5OTM2LTU2NDUwM2I0ZmRhZmI4Y2E5OWM1NGE1MTA5NDQ5NGRhMDI3NWI0MjUxZDA5MjIxMjhmNmFlYmI5YzRjZTdmOWU).-->
+Ensimmäisellä Koodiklinikalla käydään läpi Pandas-kirjaston perusteita sekä eri kehitysympäristöjä, ks. [Datatieteen perusteet](Datatiede-perusteet/). 
+
+<!--Liittykää myös kurssin [Slack-kanavalle](https://join.slack.com/t/jodatut/shared_invite/enQtMzIyOTk4NjI5OTM2LTU2NDUwM2I0ZmRhZmI4Y2E5OWM1NGE1MTA5NDQ5NGRhMDI3NWI0MjUxZDA5MjIxMjhmNmFlYmI5YzRjZTdmOWU).-->
