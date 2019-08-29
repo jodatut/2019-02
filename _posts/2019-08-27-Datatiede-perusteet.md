@@ -14,6 +14,8 @@ Voit täydentää Python-osaamistasi vuorovaikutteisilla verkkokursseilla:
 * [CodeAcademy Data Science](https://www.codecademy.com/learn/paths/data-science)
 * [DataCamp Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
 
+Myös CSC tarjoaa [Python-oppimateriaalia](https://github.com/csc-training/python-introduction).
+
 Halutessasi voit asentaa Pythonin omalle koneellesi:
 - [Python](https://www.python.org/downloads/) (mieluiten v3.6.x)
 - [Anaconda](https://www.anaconda.com/download/) (v5.1)
@@ -32,6 +34,6 @@ Huom! Mikäli käytät Anacondaa, käytä myös Anacondan paketinhallintajärjes
 
 ## Ensimmäinen esimerkki ##
 
-Tehdään ohjelma, joka siivoaa likaista dataa käyttäen pandas-kirjastoa. Tutustutaan pandasin DataFrameihin ja siihen, miten niitä voidaan käsitellä. Jos aikaa riittää, tutustutaan myös matplotlib-kirjastoon ja kuvioiden piirtämiseen DataFrameista.
+Tehdään ohjelma, joka siivoaa likaista dataa käyttäen pandas-kirjastoa. Tutustutaan pandasin DataFrameihin ja siihen, miten niitä voidaan käsitellä. Jos aikaa riittää, tutustutaan myös matplotlib-kirjastoon ja DataFrame-muotoisen datan visualisointiin.
 
 __Ensimmäisen demon [lähdekoodi](https://github.com/jodatut/2018/blob/master/koodiesimerkit/data_cleaning3.py).__
