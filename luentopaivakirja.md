@@ -25,13 +25,15 @@ Kaikkien aikojen ensimmäinen Johdanto datatieteeseen -toteutuskerta on päätty
 Katsasta seuraavaksi esimerkiksi opintojaksot [Data- ja informaatioanalytiikka](http://www.tut.fi/opinto-opas/wwwoppaat/opas2017-2018/perus/aineryhmat/Tiedonhallinta/TLO-35100.html) ja
 [Introduction to Pattern Recognition and Machine Learning](http://www.tut.fi/opinto-opas/wwwoppaat/opas2017-2018/kv/aineryhmat/Signaalinkasittely/SGN-13006.html).
 
-## Luentoviikko 4.6: Datan visualisointi
+## Luentoviikko 7: TBD
+
+## Luentoviikko 6: Datan visualisointi
 
 Viimeisellä varsinaisella luentokerralla käydään läpi datan vuorovaikutteista eksploratiivista analytiikka ja luodaan tiekarttaa kohti datatuotteiden kehittämistä. Lue artikkeli [Designing and Developing Analytics-Based Data Products](https://sloanreview.mit.edu/article/designing-and-developing-analytics-based-data-products/) ja katso Jeffrey Heerin [keynote-esitys visuaalisesta analytiikasta](https://www.youtube.com/watch?v=hsfWtPH2kDg).
 
 [Koodiklinikalla](https://jodatut.github.io/2018/Datan-visualisointi) päästään tekemään visualisointeja siihen tarkoitettujen kirjastojen avulla sekä luomaan yksinkertainen web-sovellus datan ympärille.
 
-## Luentoviikko 4.5: Ohjaamaton koneoppiminen
+## Luentoviikko 5: Ohjaamaton koneoppiminen
 
 Miten ohjattu ja ohjaamaton oppiminen eroavat toisistaan?
 Ohjaamaton oppiminen (ks. [Unsupervised learning workflow](https://goo.gl/images/dCm55z)),
@@ -42,7 +44,7 @@ aihemallinnus eli [topic modeling](https://medium.com/mlreview/topic-modeling-wi
 
 Koodiklinikalla tutustutaan [ryvästämiseen ostoskorianalyysin kautta](https://jodatut.github.io/2018/Ostoskorianalyysi).
 
-## Luentoviikko 4.4: Harjoitustyöhön tutustuminen
+## Luentoviikko 4: Harjoitustyöhön tutustuminen
 
 Lue ennen luentoa: [Predicting Airbnb Listing Prices with Scikit-Learn and Apache Spark](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/)
 
@@ -54,7 +56,7 @@ Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://mapr.com/b
 
 Koodiklinikalla [syvennytään lineaariregressioon](https://jodatut.github.io/2018/Kategoriset-muuttujat-ja-puuttuva-data).
 
-## Luentoviikko 4.3: Koneoppimisen periaatteet
+## Luentoviikko 3: Koneoppimisen periaatteet
 
 Lue ennen luentoa: [Näin laadullinen tieto jalostuu laskennalliseksi: piirteet sosiaalisen median analytiikassa](https://rajapinta.co/2017/10/16/nain-laadullinen-tieto-jalostuu-laskennalliseksi-piirteet-sosiaalisen-median-analytiikassa/)
 
@@ -68,8 +70,9 @@ dataan tutustuminen käyntiin (ks.
 [explore](https://github.com/jodatut/2018/tree/master/koodiesimerkit/explore)).
 
 Koodiklinikalla [esimerkkejä lineaariregressiosta](https://jodatut.github.io/2018/Lineaariregressio).
+-->
 
-## Luentoviikko 4.2: Datan kerääminen ja jalostaminen
+## Luentoviikko 2: Datan kerääminen ja jalostaminen
 
 Datatiedeprosessin vaiheet ([Data Science Workflow](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)),
 kerääminen ja jalostaminen [datatieteen metrokartassa](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/),
@@ -88,11 +91,7 @@ vrt. OpenRefine.
 
 Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://jodatut.github.io/2018/Raapijat-ja-ry%C3%B6mij%C3%A4t/).
 
-<!-- eräs raapija ja ryömijä (ks. [esimerkki](https://github.com/jukkahuhtamaki/pcm-demo/blob/master/crawl-study-guide/crawl_courses.py), -->
-
-<!-- Toiseen teknologiademoon pääsee [tästä]. -->
-
-## Luentoviikko 4.1: Johdanto aihepiiriin ja suorittaminen
+## Luentoviikko 1: Johdanto aihepiiriin ja suorittaminen
 
 Avausluento tiistaina 27. elokuuta kello 17-20 Edutechissä.
 Suorittamisen käytännöt.
@@ -109,6 +108,6 @@ Dataa koneeseen:
 read_csv() & read_excel().
 [Jupyter-koeajo](https://github.com/jodatut/2019-02/blob/master/koodiesimerkit/jupyter-demo/Koeajossa-Jupyter.ipynb).
 
-Ensimmäisellä Koodiklinikalla käydään läpi Pandas-kirjaston perusteita sekä eri kehitysympäristöjä, ks. [Datatieteen perusteet](https://jodatut.github.io/2019-02/Datatiede-perusteet/). 
+Ensimmäisellä Koodiklinikalla käydään läpi Pandas-kirjaston perusteita sekä eri kehitysympäristöjä, ks. [Datatieteen perusteet](https://jodatut.github.io/2019-02/Datatiede-perusteet/).
 
 <!--Liittykää myös kurssin [Slack-kanavalle](https://join.slack.com/t/jodatut/shared_invite/enQtMzIyOTk4NjI5OTM2LTU2NDUwM2I0ZmRhZmI4Y2E5OWM1NGE1MTA5NDQ5NGRhMDI3NWI0MjUxZDA5MjIxMjhmNmFlYmI5YzRjZTdmOWU).-->
