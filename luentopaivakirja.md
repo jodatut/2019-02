@@ -85,7 +85,7 @@ ryömijät ja raapijat
 ([Web crawler](https://en.wikipedia.org/wiki/Web_crawler),
 [Web scraping](https://en.wikipedia.org/wiki/Web_scraping),
 [Web Scraping in Python](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/),
-[Scrapy](https://scrapy.org/)),
+[Scrapy](https://scrapy.org/),
 [Scraping for journalists](https://leanpub.com/scrapingforjournalists))
 dataformaatit ja niiden ohjelmallinen käsittely,
 data wrangling (ks. [DataWrangler](http://vis.stanford.edu/wrangler/)),
