@@ -6,13 +6,17 @@ year: 2019-02
 
 Tämä on Johdanto datatieteeseen -opintojakson syksyn 2019 toteutuskerran luentopäiväkirja.
 
+Toteutuskerta noudattelee [syksyn 2018 toteutusta](https://jodatut.github.io/2018/luentopaivakirja/).  
+
 <!-- Vastaisen varalle:
 Toteutus noudattelee [vuoden 2018 toteutuskertaa](https://jodatut.github.io/2018/luentopaivakirja).
 Alan dynaamisuudesta johtuen sisältöjä ja toteutustapaa kuitenkin kehitetään jatkuvasti.
 -->
-Toteutuskerta etenee karkean
+
+<!--
+karkean
 [luentosuunnitelman](https://docs.google.com/document/d/1drHb2HtmFy_Nu5iVuCtqZV6C9OjsoGMQqDrvDhV7fIc/edit?usp=sharing)
-mukaisesti.
+mukaisesti. -->
 
 <!--
 Totetutuskerran käytössä on
