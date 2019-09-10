@@ -90,8 +90,8 @@ ryömijät ja raapijat
 dataformaatit ja niiden ohjelmallinen käsittely,
 data wrangling (ks. [DataWrangler](http://vis.stanford.edu/wrangler/)),
 datan jalostaminen Pythonilla
-(ks. [Pandas-toimintokooste](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python),
-vrt. OpenRefine.
+(ks. [Pandas-toimintokooste](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python)),
+vrt. [OpenRefine](http://openrefine.org/).
 
 Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://jodatut.github.io/2018/Raapijat-ja-ry%C3%B6mij%C3%A4t/).
 
