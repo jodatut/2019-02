@@ -93,7 +93,7 @@ datan jalostaminen Pythonilla
 (ks. [Pandas-toimintokooste](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python)),
 vrt. [OpenRefine](http://openrefine.org/).
 
-Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://jodatut.github.io/2018/Raapijat-ja-ry%C3%B6mij%C3%A4t/).
+Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://jodatut.github.io/2019-02/Raapijat-ja-ry%C3%B6mij%C3%A4t/).
 
 ## Luentoviikko 1: Johdanto aihepiiriin ja suorittaminen
 
