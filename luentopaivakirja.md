@@ -66,13 +66,13 @@ Koodiklinikalla [syvennytään lineaariregressioon](https://jodatut.github.io/20
 
 Lue ennen luentoa: [Näin laadullinen tieto jalostuu laskennalliseksi: piirteet sosiaalisen median analytiikassa](https://rajapinta.co/2017/10/16/nain-laadullinen-tieto-jalostuu-laskennalliseksi-piirteet-sosiaalisen-median-analytiikassa/)
 
-Koneoppimisen työnkulku (ks. [Supervised learning workflow](https://twitter.com/jnkka/status/973566383899455488)),
+Koneoppimisen työnkulku (ks. [Supervised learning workflow](https://en.proft.me/media/science/ml_svlw.jpg)),
 sovellusesimerkki: [asiakaspoistuma-analyysi](http://www.louhia.fi/2014/08/27/asiakaspoistuma-analyysi-ja-miljoona-lisamyyntia/),
 piirteiden erottaminen (ks. [esilukemisto](https://rajapinta.co/2017/10/16/nain-laadullinen-tieto-jalostuu-laskennalliseksi-piirteet-sosiaalisen-median-analytiikassa/)),
 piirteiden jalostaminen (ks.
 [feature engineering](https://medium.com/mindorks/what-is-feature-engineering-for-machine-learning-d8ba3158d97a)),
 luokittelu Pythonilla ([step-by-step tutorial](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)),
-dataesimerkkejä (ks. [IBM Watson datasets](https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/)),
+dataesimerkkejä (ks. [IBM Watson Community](https://dataplatform.cloud.ibm.com/community)),
 dataan tutustuminen käyntiin (ks.
 [explore](https://github.com/jodatut/2018/tree/master/koodiesimerkit/explore)).
 
