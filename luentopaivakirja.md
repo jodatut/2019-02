@@ -40,6 +40,8 @@ Viimeisellä varsinaisella luentokerralla käydään läpi datan vuorovaikutteis
 ## Luentoviikko 5: Ohjaamaton koneoppiminen
 
 Miten ohjattu ja ohjaamaton oppiminen eroavat toisistaan?
+
+<!--Kuva alla versionhallinnassa: https://jodatut.github.io/2019-02/figure/unsupervised-learning-workflow.jpg ->
 Ohjaamaton oppiminen (ks. [Unsupervised learning workflow](https://goo.gl/images/dCm55z)),
 [ostoskorianalyysi](http://pbpython.com/market-basket-analysis.html),
 [verkostoanalyysi](https://github.com/jukkahuhtamaki/demo-twitter-collector/blob/master/README.md) (ks. [Marvel social graph](https://blog.dataiku.com/2015/05/19/marvel-social-graph-analysis)),
@@ -66,7 +68,7 @@ Koodiklinikalla [syvennytään lineaariregressioon](https://jodatut.github.io/20
 
 Lue ennen luentoa: [Näin laadullinen tieto jalostuu laskennalliseksi: piirteet sosiaalisen median analytiikassa](https://rajapinta.co/2017/10/16/nain-laadullinen-tieto-jalostuu-laskennalliseksi-piirteet-sosiaalisen-median-analytiikassa/)
 
-Koneoppimisen työnkulku (ks. [Supervised learning workflow](https://en.proft.me/media/science/ml_svlw.jpg)),
+Koneoppimisen työnkulku (ks. [Supervised learning workflow](https://jodatut.github.io/2019-02/figure/supervised-learning-workflow.jpg)),
 sovellusesimerkki: [asiakaspoistuma-analyysi](http://www.louhia.fi/2014/08/27/asiakaspoistuma-analyysi-ja-miljoona-lisamyyntia/),
 piirteiden erottaminen (ks. [esilukemisto](https://rajapinta.co/2017/10/16/nain-laadullinen-tieto-jalostuu-laskennalliseksi-piirteet-sosiaalisen-median-analytiikassa/)),
 piirteiden jalostaminen (ks.
