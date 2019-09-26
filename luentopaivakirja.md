@@ -78,7 +78,7 @@ dataesimerkkejä (ks. [IBM Watson Community](https://dataplatform.cloud.ibm.com/
 dataan tutustuminen käyntiin (ks.
 [explore](https://github.com/jodatut/2018/tree/master/koodiesimerkit/explore)).
 
-Koodiklinikalla [esimerkkejä lineaariregressiosta](https://jodatut.github.io/2018/Lineaariregressio).
+Koodiklinikalla [esimerkkejä lineaariregressiosta](https://jodatut.github.io/2019-02/Lineaariregressio).
 
 
 ## Luentoviikko 2: Datan kerääminen ja jalostaminen
