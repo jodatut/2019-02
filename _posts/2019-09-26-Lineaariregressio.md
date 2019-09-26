@@ -11,8 +11,10 @@ Koneoppimmisessa hyvin usein käytetystä [train/test](https://towardsdatascienc
 
 ## Esimerkki 1 ##
 
-[Linkki](https://github.com/jodatut/2018/blob/master/koodiesimerkit/linreg.py) Githubiin ensimmäisen esimerkin koodeihin.
+Asunnon hinnan ennustaminen: [koodi](https://github.com/jodatut/2019-02/blob/master/koodiesimerkit/linear-regression/linreg.py), [Notebook-muodossa](https://github.com/jodatut/2019-02/blob/master/koodiesimerkit/linear-regression/Linear_Regression_Boston.ipynb))
+
+<!-- [Linkki](https://github.com/jodatut/2018/blob/master/koodiesimerkit/linreg.py) Githubiin ensimmäisen esimerkin koodeihin. -->
 
 ## Esimerkki 2 ##
 
-Pörssikurssin ennustamisen lähdekoodit [täältä](https://github.com/jodatut/2018/blob/master/koodiesimerkit/stock_forecast2.py).
+Pörssikurssin ennustamisen [lähdekoodi](https://github.com/jodatut/2018/blob/master/koodiesimerkit/stock_forecast2.py).
