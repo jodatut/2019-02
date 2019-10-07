@@ -50,18 +50,20 @@ aihemallinnus eli [topic modeling](https://medium.com/mlreview/topic-modeling-wi
 
 Koodiklinikalla tutustutaan [ryvästämiseen ostoskorianalyysin kautta](https://jodatut.github.io/2018/Ostoskorianalyysi).
 
+-->
+
 ## Luentoviikko 4: Harjoitustyöhön tutustuminen
 
 Lue ennen luentoa: [Predicting Airbnb Listing Prices with Scikit-Learn and Apache Spark](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/)
 
 Johdanto datatieteeseen -harjoitustyössä käydään läpi datatiedeprojektin keskeiset vaiheet.
 Voit valita aiheen ja datalähteen vapaasti.
-Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](https://jodatut.github.io/2018/harjoitustyo/) toteutuksesta.
+Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](https://jodatut.github.io/2019-02/harjoitustyo/) toteutuksesta.
 Eräs vaihtoehto on Airbnb-aineiston analysointi.
 Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/) soveltamalla.
 
-Koodiklinikalla [syvennytään lineaariregressioon](https://jodatut.github.io/2018/Kategoriset-muuttujat-ja-puuttuva-data).
-
+<!--
+Koodiklinikalla [syvennytään lineaariregressioon](https://jodatut.github.io/2019/Kategoriset-muuttujat-ja-puuttuva-data).
 -->
 
 ## Luentoviikko 3: Koneoppimisen periaatteet
