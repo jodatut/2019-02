@@ -60,7 +60,7 @@ Johdanto datatieteeseen -harjoitustyössä käydään läpi datatiedeprojektin k
 Voit valita aiheen ja datalähteen vapaasti.
 Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](https://jodatut.github.io/2019-02/harjoitustyo/) toteutuksesta.
 Eräs vaihtoehto on Airbnb-aineiston analysointi.
-Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/) soveltamalla.
+Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/) soveltamalla. Katso myös [simple-regression](https://github.com/jodatut/demos-and-examples/blob/master/simple-regression/simple-regression.ipynb) ja [exploring-gapminder](https://github.com/jodatut/demos-and-examples/blob/master/simple-regression/exploring-gapminder.ipynb).
 
 Koodiklinikalla syvennytään [datan käsittelyyn lineaariregressiota varten](https://jodatut.github.io/2019/Kategoriset-muuttujat-ja-puuttuva-data).
 

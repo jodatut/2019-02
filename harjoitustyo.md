@@ -118,16 +118,16 @@ Otsikoi viesti #JODATUT: työ valmis.
     Sähköposti: <a href="mailto:jstat@trolleywatch.org">jstat@trolleywatch.org</a>
   </p>
   <p>Harjoitustyöni aihe: Julkisen liikenteen vaikutus Airbnb-asunnon hintaan</p>
-  <p>Harjoitustyö löytyy kokonaisuudessaan oheisesta zip-paketista (jodatut201902-234567.zip).</p>
+  <p>Harjoitustyö löytyy kokonaisuudessaan oheisesta zip-paketista (jodatut2019-02-234567.zip).</p>
 
 <p>Oppimispäiväkirjani löytyy osoitteesta:
-<a href="http://blog.fi/jamesstation/jodatut2019-02">http://blog.fi/jamesstation/jodatut201902</a>.</p>
+<a href="http://blog.fi/jamesstation/jodatut2019-02">http://blog.fi/jamesstation/jodatut2019-02</a>.</p>
 
 </blockquote>
 
-Palautettavan zip-paketin (jodatut201902-opiskelijanumero.zip) tulee sisältää hakemisto nimeltä jodatut201902-234567 (korvaa lukusarja 234567 omalla opiskelijanumerollasi), jonka sisältä löytyvät työhösi liittyvät koodi- ja asetustiedostot.
+Palautettavan zip-paketin (jodatut2019-02-opiskelijanumero.zip) tulee sisältää hakemisto nimeltä jodatut2019-02-234567 (korvaa lukusarja 234567 omalla opiskelijanumerollasi), jonka sisältä löytyvät työhösi liittyvät koodi- ja asetustiedostot.
 Huomaa, että sovelluksen ei tarvitse toimia sellaisenaan. Riittää, että paketin sisältöön voi perehtyä suoraviivaisesti paketin purkamalla.
 
 Merkitse lisäksi harjoitustyön eri ominaisuuksien raportoiduista toteutuksista ja vierailuluennoille osallistumisesta keräämäsi pisteet
-[Google-laskentataulukkoon](https://docs.google.com/spreadsheets/d/1v2LnwnQHUKA5xA6CrkQ_JHCR-qUqedBwz68ryUIs-vo/edit?usp=sharing ) (ei edellytä sisäänkirjautumista).
+[Google-laskentataulukkoon](https://docs.google.com/spreadsheets/d/1-KsVmhE17ofdOZoUlnu_7gW3AzhR_26Jqm1-JYnfbOI/edit?usp=sharing) (ei edellytä sisäänkirjautumista).
 **Merkitse pisteet ainoastaan siinä tapauksessa, että olet julkaissut kuvauksen määräaikaan mennessä.**
