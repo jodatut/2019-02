@@ -16,7 +16,7 @@ Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://mapr.com/b
 
 | Vaihe  | 1 piste  | 2 pistettä   | 3 pistettä  |
 |--------|---|---|---|
-| Kehitysympäristö   | Anaconda omalla koneella | [CSC Notebooks](https://www.csc.fi/web/blog/post/-/blogs/notebooks-enemman-aikaa-opetuksen-ytimelle) | Oma pilviympäristö |
+| Kehitysympäristö  | [CSC Notebooks](https://www.csc.fi/web/blog/post/-/blogs/notebooks-enemman-aikaa-opetuksen-ytimelle)| Anaconda omalla koneella | Oma pilviympäristö |
 | Datan kerääminen   | Valmis datasetti         | Datasettien yhdistely | Oma datasetti |   
 | Datan jalostaminen | Siistiä lähtödataa       | Siivoaminen ja piirteiden erottaminen | Web DAD |   
 | Datan kuvaileminen | Standardikuvaajat        | Monipuolinen visuaalinen raportti | Vuorovaikutteinen Web-kojelauta |   
@@ -25,8 +25,8 @@ Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://mapr.com/b
 
 **Kehitysympäristö**
 Perusta kehitysympäristö projektiasi varten.
-Anacondan asentaminen omalle koneelle on suoraviivaisin vaihtoehto.
-CSC Notebooks -palvelun käyttäminen mahdollistaa Jupyterin opettelun.
+CSC Notebooks -palvelun käyttäminen on suoraviivaisin vaihtoehto.
+Anacondan asentaminen omalle koneelle mahdollistaa pysyvän kehitysympäristön käyttämisen.
 Voit myös rakentaa oman pilvipalvelupohjaisen analytiikkaympäristösi.
 Esimerkiksi [Google Cloud Platform](https://cloud.google.com/) soveltuu viimeksi mainittuun kategoriaan.
 
