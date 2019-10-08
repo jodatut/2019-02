@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Harjoitustyöohje / JODA 2018
-year: 2018
+title: Harjoitustyöohje / JODA syksyllä 2019
+year: 2019-02
 ---
 
-Ohje viimeistellään luentoviikon 4.4 aikana. Ilmoita epäjohdonmukaisuuksista [Jukalle](http://www.tut.fi/fi/henkilokortti/index.htm?id=8883).
+Ilmoita epäjohdonmukaisuuksista harjoitustyöohjeessa [Jukalle](https://www.tuni.fi/fi/jukka-huhtamaki).
 
 Johdanto datatieteeseen -harjoitustyössä käydään läpi datatiedeprojektin keskeiset vaiheet.
 Voit valita aiheen ja datalähteen vapaasti.
@@ -28,13 +28,13 @@ Perusta kehitysympäristö projektiasi varten.
 Anacondan asentaminen omalle koneelle on suoraviivaisin vaihtoehto.
 CSC Notebooks -palvelun käyttäminen mahdollistaa Jupyterin opettelun.
 Voit myös rakentaa oman pilvipalvelupohjaisen analytiikkaympäristösi.
-Esimerkiksi [Google Cloud Platform](https://cloud.google.com/) viimeksi mainittuun kategoriaan.
+Esimerkiksi [Google Cloud Platform](https://cloud.google.com/) soveltuu viimeksi mainittuun kategoriaan.
 
 **Datan kerääminen**
 Suoraviivaisinta on lähteä liikkeelle valmiista datasta.
 Ehdotamme [Inside Airbnb](http://insideairbnb.com/) -datasetin käyttöä.
 Analytiikkavälineet tarjoavat myös puhdasta esimerkkidataa, katso vaikkapa
-[IBM Watsonin tarjonta](https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/).
+[IBM Watsonin](https://www.ibm.com/community/) ja [Kagglen](https://www.kaggle.com/) tarjonta.
 Datasettien yhdistely tuo mukanaan lisähaastetta.
 Voit myös kerätä oman datasetin Web-ryöminnän, ruudunraavinnan tai API-ohjelmoinnin keinoin.
 
@@ -76,12 +76,10 @@ ominaisuuksien perusteella määrittelevä sovellus ovat esimerkkejä ohjaavasta
 ## Pisteiden kerääminen
 
 Pisteiden kerääminen tapahtuu julkaisemalla kunkin vaiheen kuvaus
-toteutuskerran Slackissä **maanantaihin 30. huhtikuuta kello 15 mennessä**.
-Pisteet myönnetään täysimääräisenä kun minimivaatimukset täyttyvät ja
-palautus on tehty annetun aikataulun puitteissa.
+toteutuskerran Slackissä **perjantaihin 29. marraskuuta kello 17 mennessä**.
+Pisteet myönnetään täysimääräisenä kun minimivaatimukset täyttyvät ja palautus on tehty annetun aikataulun puitteissa.
 
-Aihepiiriin jo ennen toteutuskerran alkua perehtyneitä suorittajia kannustetaan
-toteuttamaan etenkin ensimmäiset vaiheet annettua aikataulua rivakammin ja
+Aihepiiriin jo ennen toteutuskerran alkua perehtyneitä suorittajia kannustetaan toteuttamaan etenkin ensimmäiset vaiheet annettua aikataulua rivakammin ja
 siten jakamaan osaamistaan muille.
 Erityisen informatiiviset palautukset huomioidaan kokonaissuoritusta arvosteltaessa.
 
@@ -93,25 +91,24 @@ Yhden vaiheen kuvaus sisältää seuraavat pääkohdat:
 1. listaus vähintään kolmesta asiasta, jotka olivat valitulla teknologialla joko erityisen helppoja tai vastaavasti hankaloittivat työtäsi merkittävästi.
 
 Kun viesti on valmis, julkaise se Slackissä.
-Halutessasi voit kirjoittaa kuvauksen esimerkiksi dillinger.io-palvelulla ja liittää sen Slackiin-viestiin PDF-muodossa.
+Halutessasi voit kirjoittaa kuvauksen esimerkiksi [dillinger.io](https://dillinger.io/)-palvelulla ja liittää sen Slackiin-viestiin PDF-muodossa.
 Löydät Slackistä erillisen kanavan kullekin eri vaiheelle.
 Lisää Slack-viestiin sopivat hashtagit (esimerkiksi #jupyter #scikitlearn #pandas) kuvaamaan toteutuksessa käyttämiäsi teknologioita.  
 
 ## Yhteistyö on sallittua
 
 Harjoitustyön tekeminen yhteistyössä on sallittua.
-Halutessanne voitte myös toteuttaa yhdessä esimerkiksi datan keräämiseen tai
-jalostamiseen tarvittavia komponentteja.
+Halutessanne voitte myös toteuttaa yhdessä esimerkiksi datan keräämiseen tai jalostamiseen tarvittavia komponentteja.
 Jokainen kuitenkin palauttaa omat kuvauksensa.
-Käyttäkää komponenttien jakamiseen versionhallintajärjestelmää.
+Käyttäkää komponenttien jakamiseen versionhallintajärjestelmää ja kertokaa osana kuvauksia miten tämän teitte.
 Harjoitustyöt eivät saa olla identtisiä.
 
 ## Loppuraportti
 
 Harjoitustyön palautus tapahtuu lähettämällä oheisen mallin mukainen viesti
-**perjantaihin 11. toukokuuta kello 17 mennessä**
+**perjantaihin 29.11. kello 17 mennessä**
 osoitteeseen
-[jukka.huhtamaki@tut.fi](mailto:jukka.huhtamaki@tut.fi).
+[jukka.huhtamaki@tuni.fi](mailto:jukka.huhtamaki@tuni.fi).
 Otsikoi viesti #JODATUT: työ valmis.
 
 <blockquote>
@@ -121,14 +118,14 @@ Otsikoi viesti #JODATUT: työ valmis.
     Sähköposti: <a href="mailto:jstat@trolleywatch.org">jstat@trolleywatch.org</a>
   </p>
   <p>Harjoitustyöni aihe: Julkisen liikenteen vaikutus Airbnb-asunnon hintaan</p>
-  <p>Harjoitustyö löytyy kokonaisuudessaan oheisesta zip-paketista (jodatut2018-234567.zip).</p>
+  <p>Harjoitustyö löytyy kokonaisuudessaan oheisesta zip-paketista (jodatut201902-234567.zip).</p>
 
 <p>Oppimispäiväkirjani löytyy osoitteesta:
-<a href="http://blog.fi/jamesstation/jodatut2018">http://blog.fi/jamesstation/jodatut2018</a>.</p>
+<a href="http://blog.fi/jamesstation/jodatut2019-02">http://blog.fi/jamesstation/jodatut201902</a>.</p>
 
 </blockquote>
 
-Palautettavan zip-paketin (jodatut2018-opiskelijanumero.zip) tulee sisältää hakemisto nimeltä jodatut2018-234567 (korvaa lukusarja 234567 omalla opiskelijanumerollasi), jonka sisältä löytyvät työhösi liittyvät koodi- ja asetustiedostot.
+Palautettavan zip-paketin (jodatut201902-opiskelijanumero.zip) tulee sisältää hakemisto nimeltä jodatut201902-234567 (korvaa lukusarja 234567 omalla opiskelijanumerollasi), jonka sisältä löytyvät työhösi liittyvät koodi- ja asetustiedostot.
 Huomaa, että sovelluksen ei tarvitse toimia sellaisenaan. Riittää, että paketin sisältöön voi perehtyä suoraviivaisesti paketin purkamalla.
 
 Merkitse lisäksi harjoitustyön eri ominaisuuksien raportoiduista toteutuksista ja vierailuluennoille osallistumisesta keräämäsi pisteet
