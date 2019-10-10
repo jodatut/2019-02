@@ -55,7 +55,12 @@ Koodiklinikalla tutustutaan [ryvästämiseen ostoskorianalyysin kautta](https://
 
 Katso ennen luentoa: [Jeffrey Heerin keynote-esitys visuaalisesta analytiikasta](https://www.youtube.com/watch?v=hsfWtPH2kDg).
 
-Datan visualisointi ([esimerkkejä Pythonilla](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)), visuaalinen analytiikka ([Heerin keynote](https://www.youtube.com/watch?v=hsfWtPH2kDg)), eksploratiivinen analytiikka, vuorovaikutteinen analytiikka, datatuotteet ([Designing and Developing Analytics-Based Data Products](https://sloanreview.mit.edu/article/designing-and-developing-analytics-based-data-products/)). 
+Datan visualisointi ([esimerkkejä Pythonilla](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f),
+[Seaborn](https://seaborn.pydata.org/),
+[Plotly](https://plot.ly/python/)),
+visuaalinen analytiikka ([Heerin keynote](https://www.youtube.com/watch?v=hsfWtPH2kDg)),
+eksploratiivinen analytiikka ([esimerkki Pythonilla](https://towardsdatascience.com/exploratory-analysis-python-kaggle-data-b0afb6ec1788)), vuorovaikutteinen analytiikka,
+datatuotteet ([Designing and Developing Analytics-Based Data Products](https://sloanreview.mit.edu/article/designing-and-developing-analytics-based-data-products/)).
 
 [Koodiklinikalla](https://jodatut.github.io/2018/Datan-visualisointi) päästään tekemään visualisointeja siihen tarkoitettujen kirjastojen avulla sekä luomaan yksinkertainen web-sovellus datan ympärille.
 
