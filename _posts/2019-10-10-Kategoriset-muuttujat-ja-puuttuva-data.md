@@ -13,10 +13,10 @@ Hyviä tausta-artikkeleita ovat edellisellä koodiklinikalla esitetty [cross-val
 
 Kategoristen muuttujien koodaaminen:
 [koodi](https://github.com/jodatut/2019-02/blob/master/koodiesimerkit/linear-regression-cleaning/linreg_labels.py) ja
-[Notebook](https://github.com/jodatut/2019-02/blob/master/koodiesimerkit/linear-regression-cleaning/labels-in-linear-regression.ipynb)
+[Notebook](https://github.com/jodatut/demos-and-examples/blob/master/linear-regression-cleaning/labels-in-linear-regression.ipynb)
 
 ## Esimerkki 2 ##
 
 Imputaatiomenetelmät puuttuvan datan  hallinnassa:
 [koodi](https://github.com/jodatut/2019-02/blob/master/koodiesimerkit/linear-regression-cleaning/linreg_imputation.py) ja
-[Notebook](https://github.com/jodatut/2019-02/blob/master/koodiesimerkit/linear-regression-cleaning/data-imputation-for-linear-regression.ipynb)
+[Notebook](https://github.com/jodatut/demos-and-examples/blob/master/linear-regression-cleaning/data-imputation-for-linear-regression.ipynb)
