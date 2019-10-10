@@ -51,6 +51,13 @@ aihemallinnus eli [topic modeling](https://medium.com/mlreview/topic-modeling-wi
 Koodiklinikalla tutustutaan [ryvästämiseen ostoskorianalyysin kautta](https://jodatut.github.io/2018/Ostoskorianalyysi).
 
 -->
+## Luentoviikko 5: Visuaalinen analytiikka
+
+Katso ennen luentoa: [Jeffrey Heerin keynote-esitys visuaalisesta analytiikasta](https://www.youtube.com/watch?v=hsfWtPH2kDg).
+
+Datan visualisointi ([esimerkkejä Pythonilla](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)), visuaalinen analytiikka ([Heerin keynote](https://www.youtube.com/watch?v=hsfWtPH2kDg)), eksploratiivinen analytiikka, vuorovaikutteinen analytiikka, datatuotteet ([Designing and Developing Analytics-Based Data Products](https://sloanreview.mit.edu/article/designing-and-developing-analytics-based-data-products/)). 
+
+[Koodiklinikalla](https://jodatut.github.io/2018/Datan-visualisointi) päästään tekemään visualisointeja siihen tarkoitettujen kirjastojen avulla sekä luomaan yksinkertainen web-sovellus datan ympärille.
 
 ## Luentoviikko 4: Harjoitustyöhön tutustuminen
 
