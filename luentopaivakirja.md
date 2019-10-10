@@ -62,7 +62,7 @@ Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](
 Eräs vaihtoehto on Airbnb-aineiston analysointi.
 Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/) soveltamalla. Katso myös [simple-regression](https://github.com/jodatut/demos-and-examples/blob/master/simple-regression/simple-regression.ipynb) ja [exploring-gapminder](https://github.com/jodatut/demos-and-examples/blob/master/simple-regression/exploring-gapminder.ipynb).
 
-Koodiklinikalla syvennytään [datan käsittelyyn lineaariregressiota varten](https://jodatut.github.io/2019/Kategoriset-muuttujat-ja-puuttuva-data).
+Koodiklinikalla syvennytään [datan käsittelyyn lineaariregressiota varten](https://jodatut.github.io/2019-02/Kategoriset-muuttujat-ja-puuttuva-data).
 
 ## Luentoviikko 3: Koneoppimisen periaatteet
 
