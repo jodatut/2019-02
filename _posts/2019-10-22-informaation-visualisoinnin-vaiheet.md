@@ -13,4 +13,4 @@ Informaation visualisoinnin seitsemän askelta (Fry, 2008):
 6. Jalosta - jalosta aineisto peruskuvauksista selkeämmäksi ja "houkuttelevammaksi"
 7. Vuorovaikuta - luo käyttäjälle mekanismeja manipuoloida ja kontrolloida aineistoa
 
-Suomenkielinen käännös [Arho Suominen (2019)](https://github.com/jodatut/2019/blob/master/luentokirjat/Luento%206.ipynb]).
+Suomenkielinen käännös [Arho Suominen (2019)](https://github.com/jodatut/2019/blob/master/luentokirjat/Luento%206.ipynb).
