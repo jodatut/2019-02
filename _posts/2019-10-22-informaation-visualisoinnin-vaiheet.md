@@ -1,3 +1,8 @@
+---
+layout: post
+title: Informaation visualisoinnin vaiheet
+---
+
 Informaation visualisoinnin seitsemän askelta (Fry, 2008):
 
 1. Hanki - luo systemaattinen ja luotettava prosessi aineiston hankkimiseksi
