@@ -56,8 +56,9 @@ Koodiklinikalla tutustutaan [ryvästämiseen ostoskorianalyysin kautta](https://
 Katso ennen luentoa: [Jeffrey Heerin keynote-esitys visuaalisesta analytiikasta](https://www.youtube.com/watch?v=hsfWtPH2kDg).
 
 [Informaation visualisoinnin vaiheet](https://jodatut.github.io/2019-02/informaation-visualisoinnin-vaiheet/), datan visualisointi ([esimerkkejä Pythonilla](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f),
+[Plotly](https://plot.ly/python/),
 [Seaborn](https://seaborn.pydata.org/),
-[Plotly](https://plot.ly/python/)),
+[Seaborn-tutoriaali](https://medium.com/@neuralnets/statistical-data-visualization-series-with-python-and-seaborn-for-data-science-5a73b128851d)),
 visuaalinen analytiikka ([Heerin keynote](https://www.youtube.com/watch?v=hsfWtPH2kDg)),
 eksploratiivinen analytiikka ([esimerkki Pythonilla](https://towardsdatascience.com/exploratory-analysis-python-kaggle-data-b0afb6ec1788)), vuorovaikutteinen analytiikka,
 datatuotteet ([Designing and Developing Analytics-Based Data Products](https://sloanreview.mit.edu/article/designing-and-developing-analytics-based-data-products/)).
