@@ -51,6 +51,13 @@ aihemallinnus eli [topic modeling](https://medium.com/mlreview/topic-modeling-wi
 Koodiklinikalla tutustutaan [ryvästämiseen ostoskorianalyysin kautta](https://jodatut.github.io/2018/Ostoskorianalyysi).
 
 -->
+
+## Luentoviikko 6: Harjoitustyön edistäminen
+
+Kuudennella luentoviikolla keskitytään harjoitustyön edistämiseen.
+
+[Koodiklinikalla](https://jodatut.github.io/2019/Datan-visualisointi) käydään läpi karttavisualisoinnin toteuttaminen Plotly-palvelulla.
+
 ## Luentoviikko 5: Visuaalinen analytiikka
 
 Katso ennen luentoa: [Jeffrey Heerin keynote-esitys visuaalisesta analytiikasta](https://www.youtube.com/watch?v=hsfWtPH2kDg).
@@ -63,7 +70,7 @@ visuaalinen analytiikka ([Heerin keynote](https://www.youtube.com/watch?v=hsfWtP
 eksploratiivinen analytiikka ([esimerkki Pythonilla](https://towardsdatascience.com/exploratory-analysis-python-kaggle-data-b0afb6ec1788)), vuorovaikutteinen analytiikka,
 datatuotteet ([Designing and Developing Analytics-Based Data Products](https://sloanreview.mit.edu/article/designing-and-developing-analytics-based-data-products/)).
 
-[Koodiklinikalla](https://jodatut.github.io/2018/Datan-visualisointi) päästään tekemään visualisointeja siihen tarkoitettujen kirjastojen avulla sekä luomaan yksinkertainen web-sovellus datan ympärille.
+Koodiklinikalla käytiin yksityiskohtaisesti läpi Airbnb-hintaennustimen toteutusta.
 
 ## Luentoviikko 4: Harjoitustyöhön tutustuminen
 
