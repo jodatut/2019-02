@@ -10,7 +10,8 @@ Johdanto datatieteeseen -harjoitustyössä käydään läpi datatiedeprojektin k
 Voit valita aiheen ja datalähteen vapaasti.
 Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](https://jodatut.github.io/2018/harjoitustyo/) toteutuksesta.
 Eräs vaihtoehto on Airbnb-aineiston analyysi datatieteen menetelmin.
-Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/) soveltamalla.
+Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/)(ks.
+[päivitetty koodi](https://github.com/jodatut/demos-and-examples/tree/master/airbnb)) soveltamalla.
 
 ## Vaiheet ja pisteet
 
@@ -59,7 +60,7 @@ Kahden muuttujan välistä suhdetta tarkasteleva lineaarinen regressio on
 yksinkertaisin koneoppimismenetelmä.
 Voit vaikkapa etsiä Airbnb-asunnon hintaa parhaiten selvittävät muuttujat.
 Monimuuttujaregressio mahdollistaa esimerkiksi
-[Airbnb-asunnon hinnan ennustamisen](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/).
+[Airbnb-asunnon hinnan ennustamisen](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/) (ks. [päivitetty koodi](https://github.com/jodatut/demos-and-examples/tree/master/airbnb)).
 Käytännön sovellukset ovat tyypillisesti useita eri menetelmiä yhdisteleviä hybridejä.
 
 **Toimeenpano**

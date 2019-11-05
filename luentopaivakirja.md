@@ -70,7 +70,7 @@ visuaalinen analytiikka ([Heerin keynote](https://www.youtube.com/watch?v=hsfWtP
 eksploratiivinen analytiikka ([esimerkki Pythonilla](https://towardsdatascience.com/exploratory-analysis-python-kaggle-data-b0afb6ec1788)), vuorovaikutteinen analytiikka,
 datatuotteet ([Designing and Developing Analytics-Based Data Products](https://sloanreview.mit.edu/article/designing-and-developing-analytics-based-data-products/)).
 
-Koodiklinikalla käytiin yksityiskohtaisesti läpi Airbnb-hintaennustimen toteutusta.
+Koodiklinikalla käytiin yksityiskohtaisesti läpi [Airbnb-hintaennustimen toteutusta](https://github.com/jodatut/demos-and-examples/tree/master/airbnb).
 
 ## Luentoviikko 4: Harjoitustyöhön tutustuminen
 
