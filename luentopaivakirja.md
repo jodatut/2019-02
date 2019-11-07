@@ -56,7 +56,7 @@ Koodiklinikalla tutustutaan [ryvästämiseen ostoskorianalyysin kautta](https://
 
 Kuudennella luentoviikolla keskitytään harjoitustyön edistämiseen.
 
-[Koodiklinikalla](https://jodatut.github.io/2019/Datan-visualisointi) käydään läpi karttavisualisoinnin toteuttaminen Plotly-palvelulla.
+Koodiklinikalla käydään läpi [karttavisualisoinnin toteuttaminen Plotly-palvelulla](https://jodatut.github.io/2019/Datan-visualisointi) ja esimerkkejä [datan suodattamisesta ja pyörittelystä](https://github.com/jodatut/demos-and-examples/blob/master/airbnb/tinkering-with-Airbnb-data.ipynb).
 
 ## Luentoviikko 5: Visuaalinen analytiikka
 
